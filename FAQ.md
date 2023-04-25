@@ -210,7 +210,7 @@ Android settings > Battery > three dot menu > Battery optimizations > Dropdown >
 The procedure to accomplish this can vary between devices.
 
 Disabling doze mode for NetGuard cannot be done from within NetGuard
-because, according to Google, NetGuard is [not an application type allowed to do this](http://developer.android.com/training/monitoring-device-state/doze-standby.html#whitelisting-cases).
+because, according to Google, NetGuard is [not an application type allowed to do this](http://developer.android.com/training/monitoring-device-state/doze-standby.html#exemption-cases).
 
 <a name="faq22"></a>
 **(22) Can I tether (use the Android hotspot) / use Wi-Fi calling while using NetGuard?**
