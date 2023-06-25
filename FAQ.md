@@ -123,6 +123,8 @@ See [here](http://forum.xda-developers.com/showpost.php?p=65723629&postcount=178
 No, because if Tasker is allowed to disable NetGuard, any application can disable NetGuard.
 Allowing a security application to be disabled by other applications is not a good idea.
 
+Unless we take an approach similar to Termux, where the caller app must be granted a custom permission to use the plugin. The downside is that it requires the caller to explicitly request that permission in its AndroidManifest.xml, so the devs must be aware of the existence of NetGuard **AND** be willing to add that permission.
+
 <a name="faq13"></a>
 **(13) How can I remove the ongoing NetGuard entry in the notification screen?**
 
