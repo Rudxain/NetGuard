@@ -745,6 +745,12 @@ However, you can block ads for all apps with NetGuard, please see [here](https:/
 which owns no files, is in no privileged groups, and has no abilities except those which every other user has.
 
 <br />
+<a name="faq68"></a>
+**(68) Why Play Services Location doesn't work?**
+
+(to-do)
+
+<br />
 
 **NetGuard is supported for phones and tablets only, so not for other device types like televisions or vehicles.**
 
